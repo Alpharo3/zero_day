@@ -1,6 +1,6 @@
-% ZERO DAY
-# Description
+# ZERO DAY
+##  Description
 First README file as a full-stack engineer
 
-## Programme
+### Programme
 ALX Software Engineering
